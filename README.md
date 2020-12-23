@@ -1,5 +1,5 @@
 # Samsung Motion Photo Extractor
-Used to 
+Used to extract photo and video from MotionPhoto files done by Samsung phones (maybe some other vendors do that as well, I did not research)
 
 
 ## Usage
