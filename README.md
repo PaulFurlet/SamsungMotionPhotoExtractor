@@ -3,9 +3,9 @@ Used to
 
 
 ## Usage
-AutoIt3 SamsungMotionPhotoExtractor.au3 <File.jpg>
+AutoIt3 _SamsungMotionPhotoExtractor.au3_ {FileName}.jpg
 
 ## Result
 Two new files created in the folder where original file exist:
-* <File>_cut.jpg
-* <File>_cut.mp4
+* {FileName}_cut.jpg
+* {FileName}_cut.mp4
