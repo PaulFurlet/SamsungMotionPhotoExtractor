@@ -11,4 +11,4 @@ Two new files created in the folder where original file exist:
 * {FileName}_cut.mp4
 
 ## Notes
-Work is done by searching **MotionPhoto_Data** string marker and splitting file on two by it.
+Work is done by searching **MotionPhoto_Data** string marker and splitting original file on two files by it.
